@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+share-title: Davide Guidolin
 # subtitle: Who am I  
 ---
 ## Academic Bio
