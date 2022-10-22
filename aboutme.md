@@ -12,10 +12,10 @@ I obtained my bachelor's degree in **Computer Science** in 2021 (110 Cum Laude) 
 
 ## Work experience
 
-* In March 2022 I did a 3-month internship at [VUI Inc.](https://www.vui.com/) where I developed a user simulator needed for the training of a dialogue system. After the internship I used the user simulator for my bachelor's thesis.
-
 * In August 2022 I did a 3-month internship at [AWS](https://aws.amazon.com/) where I had to implement
 the gamepads support for the [NICE DCV](https://aws.amazon.com/it/hpc/dcv/) remote display protocol.
+
+* In March 2022 I did a 3-month internship at [VUI Inc.](https://www.vui.com/) where I developed a user simulator needed for the training of a dialogue system. After the internship I used the user simulator for my bachelor's thesis.
 
 ## Sport
 
