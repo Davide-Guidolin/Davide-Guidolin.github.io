@@ -12,14 +12,16 @@ I obtained my bachelor's degree in **Computer Science** in 2021 (110 Cum Laude) 
 
 ## Work experience
 
-* In August 2022 I did a 3-month internship at [AWS](https://aws.amazon.com/) where I had to implement
-the gamepads support for the [NICE DCV](https://aws.amazon.com/it/hpc/dcv/) remote display protocol.
+* **April 2023 - September 2023** I did an internship at [PhotoRoom](https://www.photoroom.com/) in Paris, where I mainly worked on improving the appearance of the images using AI. I also worked on the optimization of AI models.
 
-* In March 2022 I did a 3-month internship at [VUI Inc.](https://www.vui.com/) where I developed a user simulator needed for the training of a dialogue system. After the internship I used the user simulator for my bachelor's thesis.
+* **August 2021 - October 2021**  I did an internship at [AWS](https://aws.amazon.com/) where I had to implement
+the support for gamepads for the [NICE DCV](https://aws.amazon.com/it/hpc/dcv/) remote display protocol.
+
+* **March 2021 - May 2021** I did a remote internship at [VUI Inc.](https://www.vui.com/) where I developed a user simulator needed for the training of a dialogue system. After the internship I used the user simulator for my bachelor's thesis.
 
 ## Sport
 
-I've been a professional swimmer until 2020. I obtained many national medals between 2013 and 2017 and in 2015 I won the  Italian Youth Championship in the 100m freestyle and I partecipated at the European Youth Olympic Festival with the Italian national team.
+I've been a professional swimmer until 2020. I obtained many national medals between 2013 and 2017 and in 2015 I won the Italian Youth Championship in the 100m freestyle and I partecipated at the European Youth Olympic Festival with the Italian national team.
 
 ## Hobbies
 
