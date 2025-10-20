@@ -6,18 +6,21 @@ share-title: Davide Guidolin
 ---
 ## Academic Bio
 
-Hi, I'm Davide Guidolin, a student in the **Artificial Intelligence Systems** master degree at the University of Trento. I'm currently attending the 2<sup>nd</sup> year and specialising in the **Computer Vision** path.
+Hi, I'm Davide Guidolin. I hold a Master's degree in **Artificial Intelligence Systems** and a Bachelor's degree in **Computer Science**, both from the University of Trento. I'm an IT and AI enthusiast with a keen interest in economics and finance.
 
-I obtained my bachelor's degree in **Computer Science** in 2021 (110 Cum Laude) with the thesis _"Supervised learning vs Reinforcement learning in task completion dialogues"_.
+I'm an ambitious person who thrives on challenges, a trait I developed during my time as a professional swimmer. This experience taught me the value of hard work and perseverance, culminating in winning an Italian youth championship. I believe in maintaining a positive outlook and always looking for the good in every situation.
 
 ## Work experience
 
-* **April 2023 - September 2023** I did an internship at [PhotoRoom](https://www.photoroom.com/) in Paris, where I mainly worked on improving the appearance of the images using AI. I also worked on the optimization of AI models.
+*   **July 2024 - Now**: I am an **AI Researcher** at GPI, where I specialize in building, integrating, and fine-tuning state-of-the-art AI models. My work focuses on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems to create innovative solutions for the healthcare sector.
 
-* **August 2021 - October 2021**  I did an internship at [AWS](https://aws.amazon.com/) where I had to implement
-the support for gamepads for the [NICE DCV](https://aws.amazon.com/it/hpc/dcv/) remote display protocol.
+*   **May 2024 - July 2024**: I worked as a **Software & Data Engineer** at SATE S.r.l. in Venice, Italy.
 
-* **March 2021 - May 2021** I did a remote internship at [VUI Inc.](https://www.vui.com/) where I developed a user simulator needed for the training of a dialogue system. After the internship I used the user simulator for my bachelor's thesis.
+*   **April 2023 - September 2023**: I was an intern at [PhotoRoom](https://www.photoroom.com/) in Paris. I worked with the ML team to explore, implement, and optimize new deep learning solutions for a new feature in the PhotoRoom application. I also gained experience in ML development for production and model optimization using ONNX and TensorRT.
+
+*   **August 2021 - October 2021**: I interned at [Amazon AWS](https://aws.amazon.com/) where I was part of the NICE DCV team. My main project was to implement gamepad support for the NICE DCV desktop remotization protocol. This experience allowed me to learn more about C, Rust, teamwork, and managing large-scale projects.
+
+*   **March 2021 - May 2021**: I had a remote internship at [VUI Inc.](https://www.vui.com/) I was part of the R&D team and developed a user simulator for training a dialogue system. I later used this simulator for my bachelor's thesis, where I trained a reinforcement learning agent.
 
 ## Sport
 
